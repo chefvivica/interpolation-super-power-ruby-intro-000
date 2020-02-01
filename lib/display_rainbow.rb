@@ -1,5 +1,5 @@
 def display_rainbow (color)
-  puts "#{color.charAt(0)}: #{color},"
+  puts "#{color[0]}: #{color},"
 
 
 end
