@@ -10,4 +10,4 @@ def display_rainbow (colors)
 
 end
 
-print display_rainbow(rainbow)    # Write your #display_rainbow method here
+print display_rainbow(colors) # Write your #display_rainbow method here
